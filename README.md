@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Christophe 👋
 
-<!--
-**loursk/loursk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end web developer from France — passionate about clean code, indie music, and (of course) pizza.
 
-Here are some ideas to get you started:
+## 🔥 About Me
+- 🧑‍💻 Currently coding at Alsacreations
+- 🎨 Crafting web experiences with VueJS, HTML, CSS, JavaScript, Typescript, WordPress, PHP, Astro, SolidJS, and AlpineJS
+- 🎵 Indie music fan
+- 🍕 Pizza enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Work
+I'm not big on bragging—I'd rather let my code speak for itself!  
+Check out some of my favorite assets & resources at alsacreations/kiwipedia.
+
+## 📡 Connect with Me
+- LinkedIn: Christophe de Taddeo (https://fr.linkedin.com/in/christophe-de-taddeo-bb9a7bab)
+
+---
+
+> “Code is like pizza: best when shared.”
